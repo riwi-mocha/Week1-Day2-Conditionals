@@ -18,6 +18,7 @@ public class Activity6 {
             System.out.println("Adulto");
         }
 
+        scanner.close();
 
     }
     
