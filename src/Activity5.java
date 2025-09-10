@@ -15,5 +15,7 @@ public class Activity5 {
         } else {
             System.out.println("Es cero");
         }
+
+        scanner.close();
     }
 }
